@@ -1,13 +1,13 @@
 {
   "main.css": "/todolist-react-app/static/css/main.afb6317c.chunk.css",
-  "main.js": "/todolist-react-app/static/js/main.d882936c.chunk.js",
-  "main.js.map": "/todolist-react-app/static/js/main.d882936c.chunk.js.map",
+  "main.js": "/todolist-react-app/static/js/main.84c18042.chunk.js",
+  "main.js.map": "/todolist-react-app/static/js/main.84c18042.chunk.js.map",
   "static/js/1.4510129c.chunk.js": "/todolist-react-app/static/js/1.4510129c.chunk.js",
   "static/js/1.4510129c.chunk.js.map": "/todolist-react-app/static/js/1.4510129c.chunk.js.map",
   "runtime~main.js": "/todolist-react-app/static/js/runtime~main.3c6e48ad.js",
   "runtime~main.js.map": "/todolist-react-app/static/js/runtime~main.3c6e48ad.js.map",
   "static/css/main.afb6317c.chunk.css.map": "/todolist-react-app/static/css/main.afb6317c.chunk.css.map",
   "index.html": "/todolist-react-app/index.html",
-  "precache-manifest.b7212b87717a138b963ee648426d8203.js": "/todolist-react-app/precache-manifest.b7212b87717a138b963ee648426d8203.js",
+  "precache-manifest.5757c0d479986107f16996076391f032.js": "/todolist-react-app/precache-manifest.5757c0d479986107f16996076391f032.js",
   "service-worker.js": "/todolist-react-app/service-worker.js"
 }
